@@ -1,0 +1,4 @@
+Train Test Data: https://drive.google.com/drive/folders/15iDSClNH7Q9n-sIWZvfIL5jtd4OGXxdu?usp=sharing
+Features for partial training: https://drive.google.com/file/d/1-nc-juIfiX5hN8e3uEaredKvziAFpfpz/view?usp=sharing
+Checkpoint Freezed backbone: https://drive.google.com/file/d/1dAjh2cx5HDiMBsLRrcDHOqlCBGOw5NPl/view?usp=sharing
+Checkpoint EndtoEnd: https://drive.google.com/file/d/1uPxHFve0nSq9rG7Iys5E6KVvDbAVBzJQ/view?usp=sharing
